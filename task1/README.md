@@ -8,5 +8,3 @@ This project is an HTML webpage for a restaurant called Caffeine - House of Food
 Landing page conation a carousel of images showing the food items and a button to order online. The menu section contains a list of food items with their prices.
 
 Languages used: HTML, CSS, JavaScript
-
-## File Structure
